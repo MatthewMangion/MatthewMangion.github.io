@@ -8,7 +8,7 @@
   --paper: #FFFFFF;
   --ink: #0B1630;          /* Harbour: headlines and primary text */
   --ink-2: #576176;        /* the grey continuation in captions */
-  --ink-3: #8A92A4;        /* meta, placeholders */
+  --ink-3: #6B7385;        /* meta and labels: darkened from #8A92A4 to pass WCAG AA (4.7:1 on white) */
   --rule: #E2E6EE;
   --mist: #F2F4F7;         /* Limestone: light grey card */
   --mist-2: #E8EBF0;

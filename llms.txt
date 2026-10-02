@@ -1,0 +1,39 @@
+# Matthew Mangion
+
+> Designer and AI strategist in Malta. Junior AI & Strategy Advisor at SeyAI, Product Manager at mesura.ai (Malta's AI Readiness Score) and founder of malta.ai, a visual storytelling project that imagines with AI what Malta could look like. He designs how people work with AI, grounded in research and tested with real people.
+
+Website: https://matthewmangion.com/
+Email: mangionmatthew92@gmail.com
+Based in Malta. Works in English and Maltese; also speaks French.
+
+## Roles
+
+- Junior AI & Strategy Advisor, [SeyAI](https://ai.seytravel.com/) (since January 2025): advises organisations on AI through workshops, training programmes, strategies and research.
+- Product Manager, [mesura.ai](https://mesura.ai/): Malta's AI Readiness Score, which compares what people say they can do with AI against what they can show, across six areas.
+- Founder, malta.ai (since December 2022): a visual storytelling project and community on [Instagram](https://www.instagram.com/malta.ai/). 950 images and more than 250 videos, reaching almost 1,000,000 people.
+- Previously eChannels Support Officer, APS Bank (2022 to 2025).
+
+## Education
+
+- MSc Strategic Management and Digital Marketing, University of Malta (2023 to 2025).
+- BFA (Hons) Digital Arts, University of Malta (2020 to 2023).
+
+## Research
+
+- [From Broadcast to Dialogue: A Design Framework for Conversational AI and Curatorial Insights in Cultural Heritage](https://doi.org/10.1007/978-3-032-23925-9_13): Matthew Kenely, Matthew Mangion, Mark Bugeja, Jean Gové and Dylan Seychell. Information and Communication Technologies in Tourism 2026 (Springer), pp. 183-197. Presented at ENTER26, IFITT's eTourism conference at Breda University of Applied Sciences.
+- Conversational AI and Multimedia in Sacred Art Conservation: with Dylan Seychell, Jean Gové, Matthew Kenely and Matthew Sacco. European Cathedrals Malta Conference (2025), pp. 253-266. A personalised conversational guide on Gemini 2.0 Flash for the Face to Face with Caravaggio exhibition at St John's Co-Cathedral.
+- [Evaluating the Efficacy of Large Language Models in the Recommendation of ESG-Aligned Loan Products](https://www.um.edu.mt/library/oar/handle/123456789/146621): MSc thesis, University of Malta (March 2025).
+
+## Selected work
+
+- malta.ai: AI imagery of Malta's possible futures, from trams in Valletta to gardens on the towers and snow on the domes.
+- Design at mesura.ai: a family of graphics for the five stages of measuring AI readiness (gather, measure, benchmark, analyse, act), drawn in dots and fine lines.
+- Mesura films: two brand films (The Measure, Calibrate), a product explainer (How it works) and a series of 20-second social shorts.
+- The Unsinkables: BFA thesis, a 95-second trailer recreating a Maltese event from the Second World War with live action, CG Spitfires and composited fire and smoke.
+- Editorial design: a 16-page booklet for the Malta Tourism Authority (Tourism in Malta, Facts & Figures 2023).
+- UI/UX design: prototypes for myAPS, APS Bank's mobile app, including shake to hide balances.
+- Graphic design: a survey flyer for Visit Malta, with the word survey in eight languages and a QR code to enter a €500 draw.
+
+## Worked with and featured by
+
+Maltadaily.mt, FreeHour, Vibe FM, Lovin Malta, Gadgets, Mazin Al-Mamaar Studio, ONE and Urban Jungle.
